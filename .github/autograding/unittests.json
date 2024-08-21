@@ -1,0 +1,50 @@
+[
+  {
+    "name": "test_in_meters_per_second",
+    "function": "test_in_meters_per_second",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_reaction_distance",
+    "function": "test_reaction_distance",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_braking_distance_dry",
+    "function": "test_braking_distance_dry",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_braking_distance_wet",
+    "function": "test_braking_distance_wet",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_stopping_distance_dry",
+    "function": "test_stopping_distance_dry",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_stopping_distance_wet",
+    "function": "test_stopping_distance_wet",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_safety_distance_meter",
+    "function": "test_safety_distance_meter",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_safety_distance_seconds",
+    "function": "test_safety_distance_seconds",
+    "timeout": 10,
+    "points": 1
+  }
+]
